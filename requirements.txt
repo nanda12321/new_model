@@ -1,0 +1,10 @@
+torch>=2.0.0
+openai-whisper>=20231117
+numpy>=1.24.0
+pandas>=2.0.0
+soundfile>=0.12.1
+librosa>=0.10.1
+PyQt6>=6.5.0
+transformers>=4.30.0
+pyaudioanalysis>=0.3.14
+scipy>=1.10.1
